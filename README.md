@@ -8,8 +8,7 @@ Welcome to the **Blum Tribe Manager**! This tool allows you to automate your int
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Customization](#customization)
-- [License](#license)
+- [Run](#Run)
 
 ## Prerequisites
 
@@ -35,6 +34,6 @@ Input your query_id:
 Open the tgwebapp.txt and input your query_id
 Open and add your tribe_id at line 150
 
-## Run the script
+## Run
 python blum_tribe_manager.py
 
